@@ -1,0 +1,10 @@
+npm install @babel/core --save-dev = install @babel/core
+npm install  @babel/preset-env --save-dev = install @babel preset-env
+npm install babel-polyfill --save = installs polyfill as a dependency because polyfill is code that is actually in the final product
+
+// above are newer version of babel
+
+
+// below is the command used in video
+
+npm install babel-core babel-preset-env babel-loader
