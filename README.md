@@ -10,6 +10,8 @@ Also offers a like feature to quickly access recipes later. Liked recipes persis
 npm install
 npm run start
 ```
+### HOSTED ON:
+https://anshika451.github.io/COOKTOP/
 ### NOTE:
 The API used allows the following search queries.
 
